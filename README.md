@@ -40,3 +40,5 @@ Seattle, WA
 *	The simulation step can be generated in the main thread using the system clock (or its multiple).
 *	Any query should spawn a new thread which will project all the information about a certain packet onto the screen or the GUI interface.
 ## Sample Output:
+![image](https://user-images.githubusercontent.com/34761404/51141560-a0a51a80-1817-11e9-90d2-46171d788a75.png)
+
