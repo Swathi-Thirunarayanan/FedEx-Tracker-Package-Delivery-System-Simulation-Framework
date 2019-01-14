@@ -39,4 +39,4 @@ Seattle, WA
 *	Every active packet will create its own thread as it travels from source to destination in the system. In each step of the simulation, a packet moves from one center (or node in the graph) to another. The MySQL database is also updated for every packet at the end of a simulation step.
 *	The simulation step can be generated in the main thread using the system clock (or its multiple).
 *	Any query should spawn a new thread which will project all the information about a certain packet onto the screen or the GUI interface.
-Sample Output:
+## Sample Output:
